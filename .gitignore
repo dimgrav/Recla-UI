@@ -1,3 +1,14 @@
+# virtualenv
 venv/
+
+# ide
 .idea/
 .vscode
+
+# pycache
+*.pyc
+
+# pyinstaller
+build/
+dist/
+*.spec
